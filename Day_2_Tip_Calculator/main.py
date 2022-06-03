@@ -5,7 +5,7 @@ def main():
         calculate_tip()
 
 def calculate_tip():
-    print("Calculating new tip...\n")
+    print("New Bill Calculation...\n")
 
     bill = float(input("What is the total of your bill?\n$"))
 
