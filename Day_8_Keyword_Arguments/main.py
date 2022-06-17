@@ -17,5 +17,5 @@ def keyword_arg(a=1,b=2,c=3):
 # Call the functions
 positional_arg(a, b, c)
 
-# This call does not require parameters
+# This call does not require parameters to be passed in as they are already defined
 keyword_arg()
